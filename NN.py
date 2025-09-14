@@ -20,4 +20,4 @@ if abs(result) >= 1e6 or (0 < abs(result) < 1e-3):
     print(f"The result is: {result:.5e}")
 else:
 
-    print(f"The result is: {result:.5f}")
+    print(f"The answer is:  {result:.5f}")
