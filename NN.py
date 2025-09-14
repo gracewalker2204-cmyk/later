@@ -1,4 +1,4 @@
-print("This is my calculator, if you are a rat please enter your three numbers and I will multiply them!")
+print("This is my crocodile, if you are a rat please enter your three numbers and I will multiply them!")
 
 def get_number(prompt):
     while True:
@@ -20,4 +20,4 @@ if abs(result) >= 1e6 or (0 < abs(result) < 1e-3):
     print(f"The result is: {result:.5e}")
 else:
 
-    print(f"The answer is:  {result:.5f}")
+    print(f"The answer is:  {result.5f}")
